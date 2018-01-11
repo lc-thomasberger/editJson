@@ -1,6 +1,8 @@
 # editJson
 Adapt Authoring Plugin to edit content as JSON
 
+![edit json screenflow](https://github.com/LearnChamp/sharedAssets/blob/master/assets/editJson.gif?raw=true)
+
 ## Installation
 1 Copy the `editJson` folder into `/frontend/src/plugins/` in your authoring tool folder.
 2 Update require in `/frontend/src/core/app.js`
